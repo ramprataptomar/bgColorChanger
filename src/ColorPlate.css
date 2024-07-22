@@ -1,0 +1,9 @@
+.color-tab{
+    border: 2px solid rgb(181, 78, 78);
+    border-radius: 23px;
+    background-color: khaki;
+    margin: 0 150px 0 150px;
+    position: relative;
+    top: 500px;
+    height: 90px;
+}

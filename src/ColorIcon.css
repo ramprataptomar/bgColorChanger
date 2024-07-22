@@ -1,0 +1,23 @@
+.colors{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+    padding: 15px;
+}
+
+.single-color-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 21px;
+    width: 65px;
+    font-weight: bold;
+}
+
+.single-color-item:hover{
+    cursor: pointer;
+}
