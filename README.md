@@ -6,3 +6,8 @@ This project is the first react practice project. I have been afraiding since i 
 ## Learnings
 - This project help me applying basic react syntax.
 - Also clear the flow of the react rendering and its components.
+
+## Technology used
+- React.js
+- CSS
+- HTML
